@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Danielmzc
-- 👀 I’m interested in full-stack
-- 🌱 I’m currently learning full-stack web developer
-- 💞️ I’m looking to collaborate on JS, PYTHON, C++
-- 📫 How to reach me danielmilanez07@gmail.com
+Técnico em Informática e Desenvolvedor Full Stack.
+Atuação com suporte técnico, infraestrutura e desenvolvimento web.
+Experiência real resolvendo problemas e criando soluções escaláveis.
+Node.js | React | TypeScript | Java | Spring | PostgreSQL
 
 <!---
 Danielmzc/Danielmzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
