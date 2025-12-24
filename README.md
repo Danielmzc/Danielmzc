@@ -1,6 +1,9 @@
 ° Técnico em Informática e Desenvolvedor Full Stack.
+
 ° Atuação com suporte técnico, infraestrutura e desenvolvimento web.
+
 ° Experiência real resolvendo problemas e criando soluções escaláveis.
+
 ° Node.js | React | TypeScript | Java | Spring | PostgreSQL
 
 <!---
