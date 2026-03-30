@@ -79,15 +79,6 @@ Disponível para projetos nas seguintes áreas:
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Danielmzc&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmzc&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/daniel-milanez-carvajal-8b87b6295
@@ -96,5 +87,5 @@ Disponível para projetos nas seguintes áreas:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[SEU-USERNAME]&color=blue&style=flat-square&label=Visitas+ao+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Danielmzc&color=blue&style=flat-square&label=Visitas+ao+perfil" />
 </p>
