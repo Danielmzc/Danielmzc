@@ -3,8 +3,11 @@
 <h3 align="center">Algorithmic Trading Developer · Python Backend · Quant Systems · B3</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-milanez-carvajal-8b87b6295" target="_blank">
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.workana.com/freelancer/[SEU-WORKANA]" target="_blank">
+    <img src="https://img.shields.io/badge/Workana-disponível-brightgreen?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Brasil-🇧🇷-green?style=for-the-badge" />
 </p>
@@ -42,14 +45,14 @@ Atuo também como **freelancer** em projetos de backend Python, automação de p
 
 > Sistema de day trade automatizado operando ao vivo no mercado futuro brasileiro com capital real.
 
-O que o sistema faz:
+**O que o sistema faz:**
 - Monitora o mercado a cada 10 minutos automaticamente
 - Executa 7 estratégias independentes em paralelo
 - Gerencia risco em tempo real (stop, tamanho de posição, limites diários/semanais)
 - Dashboard web com P&L ao vivo, logs e métricas de performance
 - Deploy em cloud com auto-restart e monitoramento de saúde
 
-Estratégias implementadas:
+**Estratégias implementadas:**
 
 | Estratégia | Ativo | Descrição |
 |---|---|---|
@@ -61,12 +64,12 @@ Estratégias implementadas:
 | Regime Detection | Sistema | Classificação automática do regime: Trend/Range/Volatile |
 | Squeeze | Geral | Compressão de volatilidade (Bollinger + Keltner) |
 
-Stack:
+**Stack:**
 `Python 3.11` · `FastAPI` · `PostgreSQL` · `Docker` · `Railway` · `yfinance` · `pandas` · `numpy`
 
 ---
 
-💼 Serviços Freelance
+## 💼 Serviços Freelance
 
 Disponível para projetos nas seguintes áreas:
 
@@ -79,6 +82,15 @@ Disponível para projetos nas seguintes áreas:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Danielmzc&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmzc&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/daniel-milanez-carvajal-8b87b6295
@@ -87,5 +99,5 @@ Disponível para projetos nas seguintes áreas:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danielmzc&color=blue&style=flat-square&label=Visitas+ao+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=[SEU-USERNAME]&color=blue&style=flat-square&label=Visitas+ao+perfil" />
 </p>
