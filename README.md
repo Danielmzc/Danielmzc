@@ -1,12 +1,21 @@
-° Técnico em Informática e Desenvolvedor Full Stack.
+Algorithmic Trading System (B3 - WIN/WDO)
 
-° Atuação com suporte técnico, infraestrutura e desenvolvimento web.
+Overview
+Sistema de trading automatizado operando em tempo real...
 
-° Experiência real resolvendo problemas e criando soluções escaláveis.
+Features
+- Multi-strategy (ORB, VWAP, Momentum...)
+- Risk management automatizado
+- Dashboard em tempo real
 
-° Node.js | React | TypeScript | Java | Spring | PostgreSQL
+Architecture
+[explica como funciona]
 
-<!---
-Danielmzc/Danielmzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stack
+Python, FastAPI, Docker, PostgreSQL
+
+Screenshots
+(imagens aqui)
+
+Status
+Running live with real capital
